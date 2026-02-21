@@ -1,0 +1,14 @@
+2026-02-21 10:23:11 INFO User login success
+2026-02-21 10:25:32 ERROR Failed login attempt
+2026-02-21 10:26:02 WARNING Multiple failed attempts
+2026-02-21 10:27:10 ERROR Database connection timeout
+2026-02-21 10:27:11 ERROR System reboot initiated due to fatal error
+2026-02-21 10:27:12 ERROR Memory out of bounds
+2026-02-21 10:28:00 INFO System restarted successfully
+2026-02-21 10:29:15 INFO User logout
+2026-02-21 10:30:05 INFO Data sync started
+2026-02-21 10:35:10 WARNING slow query detected
+2026-02-21 10:36:11 INFO Health check passed
+2026-02-21 10:45:00 ERROR Null pointer exception in module AI
+2026-02-21 10:45:02 WARNING Retry policy activated
+2026-02-21 10:50:30 INFO User login success
