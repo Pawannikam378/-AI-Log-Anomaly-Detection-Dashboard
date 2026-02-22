@@ -192,16 +192,6 @@ This tool can detect:
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of:_
-- Log upload screen
-- Anomaly timeline chart
-- Flagged suspicious logs table
-- Error distribution chart
-
----
-
 ## 🚀 Future Improvements
 
 - Real-time log streaming
@@ -229,6 +219,6 @@ MIT License
 
 ## 👤 Author
 
-Your Name  
+Your Name: Pawan Nikam  
 Final Year Engineering Student  
-Focused on Cybersecurity, Machine Learning & Systems Engineering
+Focused on Embedded System, Machine Learning & Systems Engineering
